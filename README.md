@@ -1,4 +1,3 @@
-![image](https://github.com/leofuoq/website_tmdt/assets/112978597/65080ed8-e910-41a4-92e3-83008b629fad)
 ![image](https://github.com/leofuoq/website_tmdt/assets/112978597/090abb74-34e9-4227-9e59-7c11d03b7d9c)
 ![image](https://github.com/leofuoq/website_tmdt/assets/112978597/0189d853-b63d-4904-bdd8-f361da8519e8)
 ![image](https://github.com/leofuoq/website_tmdt/assets/112978597/fe7a97c8-66b5-47d8-95bf-d7b53f8b6893)
